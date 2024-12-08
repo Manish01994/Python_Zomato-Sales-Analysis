@@ -1,10 +1,10 @@
 ![Zomato Sales Analysis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl28dQOIocadPCmUD-VQeKPoHikT0Ps95KEQ&s)
 
 Zomato Sales Analysis
-Overview
+Overview:
 This project analyzes Zomato's restaurant dataset to uncover insights into restaurant ratings, cuisine preferences, price range impacts, and service features. The analysis highlights critical factors influencing customer satisfaction and business success, providing data-driven recommendations for strategic improvements.
 
-Objective
+Objective:
 To understand the distribution of ratings, cuisines, and price ranges.
 To identify factors driving customer satisfaction, including service features and delivery availability.
 To provide actionable recommendations for business optimization and customer satisfaction enhancement.
@@ -39,7 +39,7 @@ Majority of restaurants fall in the lowest price range, with higher-priced resta
 Service Features:
 
 Wi-Fi and Alcohol are the most common features, while Pet-Friendly and Smoking Areas are less frequent but linked to higher ratings.
-Recommendations
+Recommendations:
 Focus on High-Rated Restaurants:
 
 Promote restaurants with ratings above 4 to attract more customers.
@@ -66,22 +66,8 @@ Restaurant details: Name, location, and cuisine.
 Customer feedback: Ratings and reviews.
 Service features: Delivery, Wi-Fi, Parking, etc.
 Pricing: Price range and average cost for two.
-How to Use
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/zomato-sales-analysis.git
-Install required Python packages:
-bash
-Copy code
-pip install -r requirements.txt
-Run the provided Jupyter Notebook or Python scripts for analysis.
-Project Structure
-data/: Contains the cleaned dataset.
-notebooks/: Jupyter Notebooks with detailed analysis and visualizations.
-README.md: Project overview and instructions.
-requirements.txt: List of dependencies.
-Conclusion
+
+Conclusion:
 The analysis highlights key factors driving restaurant performance and customer satisfaction on Zomato. By focusing on high-rated restaurants, enhancing delivery services, and promoting diverse cuisines, Zomato can improve its value proposition and customer experience.
 Overview:
 This project analyzes Zomato's restaurant dataset to uncover insights into restaurant ratings, cuisine preferences, price range impacts, and service features. The analysis highlights critical factors influencing customer satisfaction and business success, providing data-driven recommendations for strategic improvements.
