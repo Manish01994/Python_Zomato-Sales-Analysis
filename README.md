@@ -1,4 +1,5 @@
 ![Zomato Sales Analysis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl28dQOIocadPCmUD-VQeKPoHikT0Ps95KEQ&s)
+
 Zomato Sales Analysis
 Overview
 This project analyzes Zomato's restaurant dataset to uncover insights into restaurant ratings, cuisine preferences, price range impacts, and service features. The analysis highlights critical factors influencing customer satisfaction and business success, providing data-driven recommendations for strategic improvements.
